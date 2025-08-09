@@ -1,0 +1,33 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning / similarity
+scikit-learn
+scipy
+
+# Embeddings & NLP
+gensim
+
+# Faster JSON parsing
+ujson
+
+# Progress bar utility
+tqdm
+
+# Excel & CSV support
+openpyxl
+xlsxwriter
+
+# Visualization & debugging
+matplotlib
+
+# Deep learning frameworks (choose one: TensorFlow or PyTorch, or keep both if switching)
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# Optional: for saving/loading models & pipelines
+joblib
